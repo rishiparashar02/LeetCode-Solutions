@@ -9,7 +9,7 @@
  *     }
  * }
  */
-public class Solution {
+public class Leetcode_141_Solution {
     public boolean hasCycle(ListNode head) {
         ListNode i = head;
         ListNode j = head;
