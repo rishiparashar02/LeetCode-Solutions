@@ -1,4 +1,4 @@
-public class Solution {
+public class Leetcode_414_Solution {
     public int thirdMax(int[] nums) {
         Set<Integer> set = new HashSet<>();
         for (int num : nums) set.add(num);
